@@ -1,26 +1,11 @@
 # CopadoCon-2026-Hackathon
 Dream - Think - Build
 
+ ![image alt](image url)
+
 Here is the complete step-by-step workflow of Copado Phantom.
 
-[ Developer ] --( git commit / push )--> [ Local Git Hooks ]
-
-                                                |
-                                      (Intercepts Action)
-                                                v
-                                    [ Copado Phantom Daemon ]
-                                     (Go Backend + BoltDB)
-                                                |
-         +--------------------------------------+----------------------------------+
-
-         |                                      |                                  |
-         v                                      v                                  v
- [ Terminal UI ]                       [ Dual MCP Server ]                [ Copado Cloud APIs ]
-(Bubble Tea Dashboard)                (Claude / Cursor AI)              (REST / Dialogue / CRT)
-
-         |                                      |                                  |
-         v                                      v                                  v
-Displays live status.                  AI assists with errors.            Runs tests & syncs stories.
+ ![image alt](image url)
 
 ------------------------------
 ## 1. The Trigger Phase
