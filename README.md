@@ -5,7 +5,7 @@ Dream - Think - Build
 
 Here is the complete step-by-step workflow of Copado Phantom.
 
- ![image alt](image url)
+ ![image alt](https://github.com/manjunathakv-01/CopadoCon-2026-Hackathon/blob/a680cc89e62b14f1c4934f0b49dd3d5293fd2b4c/image_cd90347f.png)
 
 ------------------------------
 ## 1. The Trigger Phase
