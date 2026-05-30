@@ -6,6 +6,10 @@ Dream - Think - Build
 
 Let's build this ground-up, one file at a time. I'll explain every decision.
 
+<img src="https://github.com/user-attachments/assets/54cc8b95-6fff-461d-b4e8-7fc20a040c51" alt="copado_phantom_architecture" width="124" height="150" />
+
+
+
 ---
 
 ## Step 1: Folder Structure
